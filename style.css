@@ -228,6 +228,7 @@ button:hover {
     text-align: center;
     background-color: rgb(195, 216, 222);
     margin: 50px 0;
+    border-radius: 20px;
 }
 
 .footer-content {
